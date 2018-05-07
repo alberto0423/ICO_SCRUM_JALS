@@ -1,0 +1,1 @@
+https://github.com/java9s/factory-pattern-example/blob/master/src/com/java9s/designpattern/factory/Exec.java
